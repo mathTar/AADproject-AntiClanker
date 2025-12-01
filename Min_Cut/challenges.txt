@@ -1,0 +1,7 @@
+- python is sloww af had to change to cpp
+- perase dont call subprocess write to file then read ig??
+ - preomcpurted stoer wagner 
+ - coudnt visualise graph v3 so did log log plot
+ 
+
+-inopt version of karger see the rng part plkase

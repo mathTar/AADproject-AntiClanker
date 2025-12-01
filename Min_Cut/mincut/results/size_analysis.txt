@@ -1,0 +1,12 @@
+GRAPH SIZE IMPACT ANALYSIS
+============================================================
+
+Small Graphs:
+  Average Error: 0.00%
+
+Medium Graphs:
+  Average Error: 1.18%
+
+Large Graphs:
+  Average Error: 2.47%
+
